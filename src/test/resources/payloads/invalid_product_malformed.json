@@ -1,0 +1,6 @@
+{
+    "title": "Broken Json Product",
+    "price": 199.99,
+    "category": "electronics",
+    "brand": "Acme"
+    // Missing closing brace and syntax errors

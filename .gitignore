@@ -1,0 +1,8 @@
+﻿target/*
+!target/ExtentReport.html
+*.class
+.idea/
+*.iml
+.project
+.classpath
+.settings/

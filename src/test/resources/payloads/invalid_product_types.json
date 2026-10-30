@@ -1,0 +1,7 @@
+{
+    "title": 123456,
+    "description": "Invalid types",
+    "category": "electronics",
+    "price": "not-a-number",
+    "brand": true
+}
